@@ -1,0 +1,50 @@
+h2 {
+	color:green;
+}
+ul {
+	align-items: center;
+	list-style-type: none;
+}
+/*Set up Nav Bar listing*/
+li a {
+	display: block;
+	color: #000;
+	text-decoration: none;
+	align-items: center;
+	width: 400px;
+	text-align: center;
+	margin: auto;
+
+}
+
+/* Change the link color on hover */
+li a:hover {
+	background-color: #555;
+	color: white;
+	outline: 1px;
+	text-align: center;
+	margin: auto;
+}
+
+
+body {
+	/* Center vertically and horizontally */
+	text-align: center;
+	align-items: center;
+	width: 100%;
+}
+
+/*create and format full width top banner*/
+div#banner { 
+    position: absolute; 
+    background-color: #DDEEEE; 
+    width: 100%;    
+}
+div#banner-content { 
+	width: 100%; 
+    margin: 0 auto;  
+}
+div#main-content { 
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
