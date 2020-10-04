@@ -4,6 +4,7 @@ h2 {
 ul {
 	align-items: center;
 	list-style-type: none;
+	text-align: center;
 }
 ul.navbar1 {
 	display: inline; 
