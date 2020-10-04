@@ -35,7 +35,7 @@ body {
 	font-family: "Arial";
 }
 
-.bigbox {
+div#bigbox {
 	/* adding and formatting big box to float behind main body content */ 
 	background color:#808080; 
 	width:60%;
