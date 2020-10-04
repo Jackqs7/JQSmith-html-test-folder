@@ -36,7 +36,7 @@ body {
 
 .bigbox {
 	/* adding and formatting big box to float behind main body content */ 
-	width:100%;
+	width:60%;
 	height:100%;
 	color:#D3D3D3; 
 	opacity: 0.5;
