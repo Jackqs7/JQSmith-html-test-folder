@@ -36,10 +36,10 @@ body {
 
 .bigbox {
 	/* adding and formatting big box to float behind main body content */ 
+	background color:#808080; 
 	width:60%;
 	height:100%;
-	color:#D3D3D3; 
-	opacity: 0.5;
+	
 }
 
 /*create and format full width top banner*/
