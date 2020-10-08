@@ -4,7 +4,7 @@ h2 {
 ul {
 	align-items: center;
 	list-style-type: none;
-	text-align: center;
+	text-align: left;
 }
 ul.navbar1 {
 	display: inline; 
@@ -16,7 +16,7 @@ li a {
 	text-decoration: none;
 	align-items: center;
 	width: 400px;
-	text-align: center;
+	text-align: left;
 	margin: auto;
 
 }
@@ -26,14 +26,14 @@ li a:hover {
 	background-color: #555;
 	color: white;
 	outline: 1px;
-	text-align: center;
+	text-align: left;
 	margin: auto;
 }
 
 
 body {
 	/* Center vertically and horizontally */
-	text-align: center;
+	text-align: left;
 	align-items: center;
 	width: 100%;
 	font-family: "Arial";
